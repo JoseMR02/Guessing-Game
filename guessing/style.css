@@ -1,0 +1,31 @@
+body{
+    text-align:center;
+    background-image: url("numbers_bg.jpg");
+    background-size: cover;
+    
+}
+
+.jumbotron {
+    background-image: linear-gradient(#46d9f3, #c924df);
+    color: #000000;
+}
+
+#directions {
+     background-image: linear-gradient(#46d9f3, #c924df);
+    font-size: 2em;    
+    width:900px;
+    height:200px;
+    margin:0 auto;
+    border-radius:20px;
+    
+}
+
+#guesses, #lowOrHi{
+  
+  background-color: black;
+  color: white;
+}
+
+#lastResult{
+  color: black;
+}
